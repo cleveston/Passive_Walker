@@ -17,14 +17,7 @@ In order to run this software, you need to install the following libraries:
 It can be done as following:
 
 ```
-pip install pymunk
-
-```
-And,
-
-```
-pip install pygame
-
+pip install pymunk && pip install pygame
 ```
 
 ## Running
@@ -33,17 +26,11 @@ To run this software, please execute the following command:
 
 ```
 python passive_walker.py
-
 ```
 
 All the configuration can be done in this file as well.
 
-
-## Contributing
-
-Feel free to copy, share and improve this software.
-
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Feel free to copy, share and improve this software.
