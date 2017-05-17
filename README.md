@@ -32,5 +32,5 @@ All the configuration can be done in this file as well.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.__
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.  
 Feel free to copy, share and improve this software.
