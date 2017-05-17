@@ -25,7 +25,7 @@ sudo pip install pymunk && sudo pip install pygame
 To run this software, please execute the following command:
 
 ```
-python passive_walker.py
+python Passive_walker.py
 ```
 
 All the configuration can be done in this file as well.
