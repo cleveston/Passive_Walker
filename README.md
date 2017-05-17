@@ -14,10 +14,10 @@ In order to run this software, you need to install the following libraries:
 - Pymunk
 - PyGame
 
-It can be done as following:
+It can be done as follow:
 
 ```
-pip install pymunk && pip install pygame
+sudo pip install pymunk && sudo pip install pygame
 ```
 
 ## Running
