@@ -1,7 +1,7 @@
-# Passive Walker
+# Passive Walker Algorithm
 
-Passive Walker is a genetic algorithm written in Python that finds a possible solution for the passive walker problem.  
-This software was witten for the Intelligent Systems Class and it provides a good implementation of cross-over, mutation and artificial selection.
+This software is a genetic algorithm written in Python that finds a possible solution for the passive walker problem.  
+This problem consists in finding the best size, width and angle for the legs, so that the walker can complete the path. All those attributes are calculated by using an implementation of crossover, mutation and artificial selection.
 
 ## Getting Started
 
