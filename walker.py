@@ -1,5 +1,3 @@
-#!/usr/bin/env python2.7
-
 import pymunk
 import pymunk.util
 from pymunk import Vec2d
