@@ -7,7 +7,7 @@ class Passive_walker:
     def __init__(self):
 
         # Create the environment
-        environment = Environment(kind=Individual, size=100, maxgenerations=300, crossover_rate=0.90, mutation_rate=0.2, optimum=1050)
+        environment = Environment(kind=Individual, size=100, maxgenerations=200, crossover_rate=0.90, mutation_rate=0.1, optimum=650)
 
         # Find the best sample
         environment.run()

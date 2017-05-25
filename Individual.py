@@ -16,7 +16,7 @@ rua -- the angle of the right hip
 rla -- the angle of the right angle'''
 
 class Individual(object):
-    alleles = [[1000, 1000], [250, 250], [40, 80], [5, 30], [5, 30], [
+    alleles = [[600, 600], [250, 250], [20, 80], [10, 60], [10, 60], [
         0, pi/2], [0, pi/2], [0, pi/2], [0, pi/2]]
     length = 9
     seperator = ''

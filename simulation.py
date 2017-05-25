@@ -12,7 +12,7 @@ from math import *
 from walker import walker
 
 class simulation():
-    def __init__(self, scr_w=1000, scr_h=600, angle=pi / 27, gravity=200, show=True):
+    def __init__(self, scr_w=600, scr_h=600, angle=pi / 27, gravity=200, show=True):
 
         # Window size
         self.scr_w = scr_w
@@ -75,7 +75,7 @@ class simulation():
             #When the walker reaches its end
             if (robot.rul.body.kinetic_energy + robot.lul.body.kinetic_energy) < 20 or iteration > 5000:
 
-                return (1000 - robot.lul.body.position[0])
+                return (600 - robot.lul.body.position[0])
 
             iteration = iteration + 1
         #    lastPosition = robot.lul.body.position[0]
