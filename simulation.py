@@ -12,7 +12,7 @@ from math import *
 from walker import walker
 
 class simulation():
-    def __init__(self, scr_w=600, scr_h=600, angle=pi / 27, gravity=200, show=True):
+    def __init__(self, scr_w=600, scr_h=600, angle=pi / 26, gravity=200, show=True):
 
         # Window size
         self.scr_w = scr_w
